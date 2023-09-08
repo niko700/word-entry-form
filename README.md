@@ -28,3 +28,7 @@ If you have any feedback, please reach out to me at contact@pythonandvba.com
 
 ![Logo](https://www.pythonandvba.com/banner-img)
 
+## Edits
+
+Does not have GUI entry at the moment. Just using the templates.
+Added a way to check if file exists before saving it.
